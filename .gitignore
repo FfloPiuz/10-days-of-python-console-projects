@@ -1,0 +1,24 @@
+# Venv
+.venv/
+venv/
+env/
+ENV/
+env.bak/
+venv.bak/
+
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+
+# Ide files
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# Sys files
+.DS_Store
+Thumbs.db
