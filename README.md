@@ -21,9 +21,9 @@
 
 | Day | Project | Description | Status |
 |-----|---------|-------------|--------|
-| 🔢 Day 1 | **Calculator** | Basic calculator with +, -, *, / | ⏳ In Progress |
+| 🔒 Day 1 | **Password Generator** | Generate strong passwords | ✅ Completed |
 | 🎯 Day 2 | **Guess the Number** | Guess a random number from 1 to 100 | ⏳ In Progress |
-| 🔐 Day 3 | **Password Generator** | Generate strong passwords | ⏳ In Progress |
+| 🔢 Day 3 | **Calculator** |  Basic calculator with +, -, *, /  | ⏳ In Progress |
 | ✅ Day 4 | **To-Do List** | Add, delete, mark tasks as done | ⏳ In Progress |
 | 🪢 Day 5 | **Hangman** | Guess the word letter by letter | ⏳ In Progress |
 | 💱 Day 6 | **Currency Converter** | Convert between USD and RUB | ⏳ In Progress |
