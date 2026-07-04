@@ -11,7 +11,6 @@
 <img src="https://img.shields.io/badge/Python-3.8+-blue?style=for-the-badge&logo=python&logoColor=white&labelColor=0d1117" />
 <img src="https://img.shields.io/badge/Status-In%20Progress-orange?style=for-the-badge&labelColor=0d1117" />
 <img src="https://img.shields.io/badge/10%20Projects-ff69b4?style=for-the-badge&labelColor=0d1117" />
-<img src="https://img.shields.io/badge/License-MIT-yellow?style=for-the-badge&labelColor=0d1117" />
 
 ---
 
