@@ -9,7 +9,7 @@
 ---
 
 <img src="https://img.shields.io/badge/Python-3.8+-blue?style=for-the-badge&logo=python&logoColor=white&labelColor=0d1117" />
-<img src="https://img.shields.io/badge/Status-Completed-green?style=for-the-badge&labelColor=0d1117" />
+<img src="https://img.shields.io/badge/Status-In%20Progress-orange?style=for-the-badge&labelColor=0d1117" />
 <img src="https://img.shields.io/badge/10%20Projects-ff69b4?style=for-the-badge&labelColor=0d1117" />
 <img src="https://img.shields.io/badge/License-MIT-yellow?style=for-the-badge&labelColor=0d1117" />
 
@@ -19,18 +19,18 @@
 
 ## 📅 Projects
 
-| Day | Project | Description |
-|-----|---------|-------------|
-| 🔢 Day 1 | **Calculator** | Basic calculator with +, -, *, / |
-| 🎯 Day 2 | **Guess the Number** | Guess a random number from 1 to 100 |
-| 🔐 Day 3 | **Password Generator** | Generate strong passwords |
-| ✅ Day 4 | **To-Do List** | Add, delete, mark tasks as done |
-| 🪢 Day 5 | **Hangman** | Guess the word letter by letter |
-| 💱 Day 6 | **Currency Converter** | Convert between USD and RUB |
-| ✊ Day 7 | **Rock Paper Scissors** | Play against the computer |
-| ❓ Day 8 | **Quiz Game** | Answer questions and get score |
-| ⏱️ Day 9 | **Timer** | Set a countdown timer |
-| 📇 Day 10 | **Contact Book** | Save and manage contacts |
+| Day | Project | Description | Status |
+|-----|---------|-------------|--------|
+| 🔢 Day 1 | **Calculator** | Basic calculator with +, -, *, / | ⏳ In Progress |
+| 🎯 Day 2 | **Guess the Number** | Guess a random number from 1 to 100 | ⏳ In Progress |
+| 🔐 Day 3 | **Password Generator** | Generate strong passwords | ⏳ In Progress |
+| ✅ Day 4 | **To-Do List** | Add, delete, mark tasks as done | ⏳ In Progress |
+| 🪢 Day 5 | **Hangman** | Guess the word letter by letter | ⏳ In Progress |
+| 💱 Day 6 | **Currency Converter** | Convert between USD and RUB | ⏳ In Progress |
+| ✊ Day 7 | **Rock Paper Scissors** | Play against the computer | ⏳ In Progress |
+| ❓ Day 8 | **Quiz Game** | Answer questions and get score | ⏳ In Progress |
+| ⏱️ Day 9 | **Timer** | Set a countdown timer | ⏳ In Progress |
+| 📇 Day 10 | **Contact Book** | Save and manage contacts | ⏳ In Progress |
 
 ---
 
@@ -44,5 +44,3 @@
 <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
 
 ---
-
-## 📁 Projects Structure
